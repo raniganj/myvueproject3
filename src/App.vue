@@ -1,9 +1,9 @@
 <script setup>
 import MyNavbar from './components/MyNavbar.vue'
-import MyReactiveList from './components/MyReactiveList.vue'
+import MyFirstApi from './components/MyFirstApi.vue'
 </script>
 
 <template>
   <MyNavbar />
-  <MyReactiveList />
+  <MyFirstApi />
 </template>
