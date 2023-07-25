@@ -1,5 +1,7 @@
-<script setup></script>
+<script setup>
+import MyStaticText from './components/MyStaticText.vue'
+</script>
 
 <template>
-  <h1 class="bg-info text-light">Hello Vue</h1>
+  <MyStaticText />
 </template>
