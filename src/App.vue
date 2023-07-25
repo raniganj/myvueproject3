@@ -1,9 +1,9 @@
 <script setup>
 import MyNavbar from './components/MyNavbar.vue'
-import MySimpleForm from './components/MySimpleForm.vue'
+import MyReactiveList from './components/MyReactiveList.vue'
 </script>
 
 <template>
   <MyNavbar />
-  <MySimpleForm />
+  <MyReactiveList />
 </template>
