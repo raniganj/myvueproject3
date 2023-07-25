@@ -1,9 +1,9 @@
 <script setup>
 import MyNavbar from './components/MyNavbar.vue'
-import MyReactiveBinding from './components/MyReactiveBinding.vue'
+import MyStaticList from './components/MyStaticList.vue'
 </script>
 
 <template>
   <MyNavbar />
-  <MyReactiveBinding />
+  <MyStaticList />
 </template>
