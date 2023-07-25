@@ -1,9 +1,9 @@
 <script setup>
 import MyNavbar from './components/MyNavbar.vue'
-import MyDataBinding from './components/MyDataBinding.vue'
+import MyEventBinding from './components/MyEventBinding.vue'
 </script>
 
 <template>
   <MyNavbar />
-  <MyDataBinding />
+  <MyEventBinding />
 </template>
