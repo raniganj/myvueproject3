@@ -1,9 +1,9 @@
 <script setup>
-import MyStaticText from './components/MyStaticText.vue'
 import MyNavbar from './components/MyNavbar.vue'
+import MyDataBinding from './components/MyDataBinding.vue'
 </script>
 
 <template>
   <MyNavbar />
-  <MyStaticText />
+  <MyDataBinding />
 </template>
