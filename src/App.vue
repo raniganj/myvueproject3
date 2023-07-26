@@ -1,10 +1,10 @@
 <script setup>
 import MyNavbar from './components/MyNavbar.vue'
-import MyDynamicComponent from './components/MyDynamicComponent.vue'
+import MyComputedProperty from './components/MyComputedProperty.vue'
 </script>
 
 <template>
   <MyNavbar />
 
-  <MyDynamicComponent />
+  <MyComputedProperty />
 </template>
