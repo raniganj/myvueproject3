@@ -1,9 +1,10 @@
 <script setup>
 import MyNavbar from './components/MyNavbar.vue'
-import MyAxiosApi from './components/MyAxiosApi.vue'
+import MyDynamicComponent from './components/MyDynamicComponent.vue'
 </script>
 
 <template>
   <MyNavbar />
-  <MyAxiosApi />
+
+  <MyDynamicComponent />
 </template>
